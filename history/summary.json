@@ -4,19 +4,19 @@
     "url": "https://soyjak.party",
     "icon": "https://favicons.githubusercontent.com/soyjak.party",
     "slug": "soyjak",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 349,
-    "timeWeek": 341,
-    "timeMonth": 341,
-    "timeYear": 341,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 379,
+    "timeDay": 441,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2021-09-24": 0
+      "2021-09-24": 11
     }
   }
 ]
