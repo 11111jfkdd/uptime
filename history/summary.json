@@ -6,15 +6,15 @@
     "slug": "soyjak",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 670,
-    "timeDay": 385,
-    "timeWeek": 568,
-    "timeMonth": 653,
-    "timeYear": 670,
+    "time": 666,
+    "timeDay": 367,
+    "timeWeek": 519,
+    "timeMonth": 649,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2021-11-26": 28
     }
