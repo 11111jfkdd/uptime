@@ -4,7 +4,7 @@
     "url": "https://soyjak.party",
     "icon": "https://favicons.githubusercontent.com/soyjak.party",
     "slug": "soyjak",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 654,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2022-03-04": 0,
       "2022-02-28": 21,
       "2022-02-03": 26,
       "2022-01-23": 80,
