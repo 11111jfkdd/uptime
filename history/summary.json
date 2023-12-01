@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/soyjak.party.ico",
     "slug": "soyjak",
     "status": "up",
-    "uptime": "42.77%",
-    "uptimeDay": "94.35%",
+    "uptime": "42.85%",
+    "uptimeDay": "99.64%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "97.57%",
-    "uptimeYear": "14.01%",
+    "uptimeYear": "14.28%",
     "time": 323,
-    "timeDay": 353,
-    "timeWeek": 901,
-    "timeMonth": 466,
+    "timeDay": 296,
+    "timeWeek": 690,
+    "timeMonth": 464,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2023-11-30": 81,
@@ -334,8 +334,7 @@
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
-      "2022-12-02": 1440,
-      "2022-12-01": 1440
+      "2022-12-02": 1440
     }
   }
 ]
